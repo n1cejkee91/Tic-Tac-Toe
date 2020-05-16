@@ -1,2 +1,4 @@
 vowels = 'aeiou'
-# create your list here
+
+example = [i for i in input() if i in vowels]
+print(example)
