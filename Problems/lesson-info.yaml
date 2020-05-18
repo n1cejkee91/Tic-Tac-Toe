@@ -1,5 +1,4 @@
 content:
-- Vowels
 - How many days
 - Odd numbers
 - Even numbers
@@ -18,3 +17,6 @@ content:
 - A very nested list
 - Accessing elements of a matrix
 - Conditions   nested lists
+- Find the length
+- Good programmer
+- Print a sign
